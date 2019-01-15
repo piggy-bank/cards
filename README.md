@@ -5,3 +5,5 @@ commit in another cards
 Change for US118
 Hello !! new branch created
 content added after Pull Request creation
+
+first pull request merged. This is changed after that.
